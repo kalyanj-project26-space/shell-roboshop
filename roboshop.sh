@@ -3,7 +3,7 @@
 SG_ID="sg-00edd68ec9e67bd52" # replace with your ID
 AMI_ID="ami-0220d79f3f480ecf5"
 ZONE_ID="Z0284977USIDXJU66JKB"
-DOMAIN_NAME="daws88s.online"
+DOMAIN_NAME="project26.space"
 
 for instance in $@
 do
